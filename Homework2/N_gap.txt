@@ -1,0 +1,8 @@
+#Nuclear magic gap energies for neutrons
+Z   N       Energy[MeV]  
+8   8       -11.52
+20  20      -7.28
+20  28      -4.60
+28  28      -6.25
+50  82      -4.9
+82  126     -3.43
